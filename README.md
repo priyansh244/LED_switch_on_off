@@ -51,13 +51,13 @@ Below are real pictures showing both LED states.
 
 ### 🔴 Phase 1 – First 4 LEDs ON, Last 4 OFF
 
-<img src="led_phase1.jpg" width="500"/>
+<img src="LED_phase_1.jpg" width="500"/>
 
 ---
 
 ### 🔵 Phase 2 – First 4 LEDs OFF, Last 4 ON
 
-<img src="led_phase2.jpg" width="500"/>
+<img src="LED_phase_2.jpg" width="500"/>
 
 ---
 
