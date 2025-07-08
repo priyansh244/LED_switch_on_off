@@ -32,16 +32,6 @@ First 4 LEDs stay ON while the next 4 remain OFF — then the pattern flips ever
 🧾 **[🔗 View Arduino Code – LED_switch_on_off.ino](./LED_switch_on_off.ino)**
 
 
-**🚀 What I Learned**
-
-= How to use arrays to store pin numbers
-
-= How to write cleaner and smarter code using loops and logic
-
-= Controlling multiple outputs using conditions inside a loop
-
-= Adjusting LED pattern speed using delay()
-
 ## 📷 Project Preview
 
 This project alternates 8 LEDs in two clear phases using `LED_switch_on_off.ino`.  
@@ -62,6 +52,25 @@ Below are real pictures showing both LED states.
 ---
 
 📝 These images represent the result of running the program, which toggles two LED groups every **500 milliseconds** using `for` loop and conditional logic inside `loop()`.
+
+
+**🚀 What I Learned**
+
+= How to use arrays to store pin numbers
+
+= How to write cleaner and smarter code using loops and logic
+
+= Controlling multiple outputs using conditions inside a loop
+
+= Adjusting LED pattern speed using delay()
+
+
+🙋‍♂️ About Me:
+👨‍💻 Project by: Priyansh Singh 📅 Date: July 2025 
+## 🌐 Explore More Projects
+
+🚀 **[🔗 Visit My GitHub](https://github.com/priyansh244)** – Check out my other Arduino projects!
+
 
 
 
